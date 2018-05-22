@@ -1,0 +1,22 @@
+{
+  "name": "C2MAppRTC",
+  "version": "0.1.0",
+  "summary": "A short description of C2MAppRTC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/berk-kaya/C2MAppRTC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "berk-kaya": "berkkaya88@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/berk-kaya/C2MAppRTC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "C2MAppRTC/Classes/**/*"
+}

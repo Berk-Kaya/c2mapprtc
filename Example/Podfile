@@ -1,0 +1,6 @@
+use_frameworks!
+target 'C2MAppRTC_Tests' do
+  pod 'C2MAppRTC', :path => '../'
+  
+  
+end
